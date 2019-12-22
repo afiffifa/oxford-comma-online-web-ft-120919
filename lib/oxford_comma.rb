@@ -1,4 +1,4 @@
-def oxford_comma(array)
-  array = ["apple", "grape"]
-  def 
+array = ["apple", "grape"]
+  def oxford_comma(array)
+    
 end
